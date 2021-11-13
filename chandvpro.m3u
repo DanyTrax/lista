@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="LA_HD:RCN" tvg-logo="https://i.ytimg.com/vi/HivPwc0IWXc/hqdefault.jpg" group-title="COLOMBIA",LA_HD:RCN
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/3121
+#EXTINF:-1 tvg-id="" tvg-name="Caracol TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA",Caracol TV FHD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/20854
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_CO_CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",LA_SD:SUR_CO_CITY TV
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/2095
+#EXTINF:-1 tvg-id="" tvg-name="LA KALLE OPCION 1" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="COLOMBIA",LA KALLE OPCION 1
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/22607
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:Animal Planet HD" tvg-logo="" group-title="COLOMBIA",LA_FHD3:Animal Planet HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/20857
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Animal Planet HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Animal Planet HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/954
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISCOVERY CHANNEL" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISCOVERY CHANNEL
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1020
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISCOVERY TURBO" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISCOVERY TURBO
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1027
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISNEY CHANNEL" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISNEY CHANNEL
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1029
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISCOVERY WORLD" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISCOVERY WORLD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1028
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISTRITO COMEDIA" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISTRITO COMEDIA
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1032
+#EXTINF:-1 tvg-id="ELGOURMET" tvg-name="El Gourmet" tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg" group-title="COLOMBIA",El Gourmet
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1035
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:FOX SERIES" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:FOX SERIES
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1053
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:FOX NEWS" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:FOX NEWS
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1052
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:FOX MOVIE" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:FOX MOVIE
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1051
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:FOX LIFE" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:FOX LIFE
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/1050
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:VH1 HD" tvg-logo="" ggroup-title="COLOMBIA",LA_HD_MEX2:VH1 HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/977
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:MTV Live HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:MTV Live HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/976
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:MTV Hits" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:MTV Hits
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/975
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Comedy Central HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Comedy Central HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/974
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Nat Geo Wild HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Nat Geo Wild HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/973
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Paramount Channel HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Paramount Channel HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/972
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery H&H HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Discovery H&H HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/947
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Discovery Channel HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Discovery Channel HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/946
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Telenovelas" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Telenovelas
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/945
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Warner HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Warner HD
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/939
