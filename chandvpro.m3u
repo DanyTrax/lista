@@ -3,8 +3,8 @@
 http://redcoliptv.com:8090/oscar174/08uB0hFysj/3121
 #EXTINF:-1 tvg-id="" tvg-name="Caracol TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA",Caracol TV FHD
 http://redcoliptv.com:8090/oscar174/08uB0hFysj/20854
-EXTINF:-1 tvg-id="1000RKD" tvg-name="CARACOL SD" tvg-logo="https://www.kienyke.com/wp-content/uploads/2018/09/caracol-1-1.jpg" group-title="COLOMBIA",CARACOL SD
-http://redcoliptv.com:8090/oscar174/08uB0hFysj/2092
+#EXTINF:-1 tvg-id="111ANZ" tvg-name="CARACOL" tvg-logo="https://seeklogo.com/images/C/caracol-television-2003-2012-logo-A38C2D1DD4-seeklogo.com.png" group-title="COLOMBIA",CARACOL
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/2101
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD:SUR_CO_CITY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA",LA_SD:SUR_CO_CITY TV
 http://redcoliptv.com:8090/oscar174/08uB0hFysj/2095
 #EXTINF:-1 tvg-id="" tvg-name="LA KALLE OPCION 1" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png" group-title="COLOMBIA",LA KALLE OPCION 1
