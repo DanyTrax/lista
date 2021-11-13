@@ -9,8 +9,8 @@ http://redcoliptv.com:8090/oscar174/08uB0hFysj/2095
 http://redcoliptv.com:8090/oscar174/08uB0hFysj/22607
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD3:Animal Planet HD" tvg-logo="" group-title="COLOMBIA",LA_FHD3:Animal Planet HD
 http://redcoliptv.com:8090/oscar174/08uB0hFysj/20857
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD_MEX2:Animal Planet HD" tvg-logo="" group-title="COLOMBIA",LA_HD_MEX2:Animal Planet HD
-http://redcoliptv.com:8090/oscar174/08uB0hFysj/954
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="CULTURALES",LA_SD:ANIMAL PLANET
+http://redcoliptv.com:8090/oscar174/08uB0hFysj/2149
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISCOVERY CHANNEL" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISCOVERY CHANNEL
 http://redcoliptv.com:8090/oscar174/08uB0hFysj/1020
 #EXTINF:-1 tvg-id="" tvg-name="LA_SD_MEX2:DISCOVERY TURBO" tvg-logo="" group-title="COLOMBIA",LA_SD_MEX2:DISCOVERY TURBO
